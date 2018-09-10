@@ -1,0 +1,3 @@
+# bash
+
+Usefull bash scripts
